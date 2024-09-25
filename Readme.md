@@ -4,7 +4,7 @@ Here's a fun and engaging README for your AKRON-MOBILE project:
 
 # AKRON-MOBILE 🎉
 
-![Memoji Emoji](https://example.com/memoji.png) <!-- Replace with your Memoji link -->
+![Memoji Emoji](https://www.tapback.co/api/avatar.webp) <!-- Replace with your Memoji link -->
 
 Welcome to **AKRON-MOBILE**! 🚀 This project is your go-to solution for managing group tasks in a sleek and user-friendly mobile app. Designed with a focus on efficiency, collaboration, and, of course, a sprinkle of fun, AKRON-MOBILE empowers users to create, manage, and complete tasks with their friends, colleagues, and family. 
 
